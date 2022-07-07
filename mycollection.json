@@ -1,0 +1,8 @@
+{
+    "name": "Teegra collection",
+    "description": "Teegra project team test collection.",
+    "image": "https://ton.org/img/duck.svg",
+    "external_link": "https://matketplacecreatures.io",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
+  }
