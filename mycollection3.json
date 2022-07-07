@@ -1,0 +1,8 @@
+{
+    "name": "TonDucks Teegra collection",
+    "description": "Teegra project team test collection.",
+    "image": "https://tonducks.teegra.io/img/images-2/0.png",
+    "external_link": "https://tonducks.teegra.io/",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0xA97F337c39cccE66adfeCB2BF99C1DdC54C2D721"
+  }
